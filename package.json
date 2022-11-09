@@ -1,0 +1,22 @@
+{
+  "name": "testdecrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amank575/testDecrypt.git"
+  },
+  "author": "Aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amank575/testDecrypt/issues"
+  },
+  "homepage": "https://github.com/amank575/testDecrypt#readme",
+  "devDependencies": {
+    "openpgp": "^5.5.0"
+  }
+}
